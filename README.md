@@ -11,6 +11,6 @@ gantt
     Final proposal draft        :after a1, 2024-04-23
     section Circuit Design
     Get parts     :a4, 2024-2-12  , 14d
-    Rough design of sensor circuit      : a5, after a4, 2024-03-15
+    Design of sensor circuit      : a5, after a4, 2024-03-15
     Simulate and build sensor circuit    :a6,after a5, 2024-04-15
 ```
